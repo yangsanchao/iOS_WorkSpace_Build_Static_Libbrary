@@ -1,2 +1,2 @@
-# iOS_WorkSpace_Build_Static_Libbrary
-iOS_WorkSpace_Build_Static_Libbrary
+# iOS_WorkSpace_Build_Static_Library
+iOS_WorkSpace_Build_Static_Library
